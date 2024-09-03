@@ -1,0 +1,1 @@
+{"name":"Local: BCBASEAD_PhepCongCoSo","url":"d:\\Dean'sCode\\C++PROPTIT\\SPOJ\\BCBASEAD_PhepCongCoSo.cpp","tests":[{"id":1715324977358,"input":"3\n{}\n{}\n{{}}\n{{},{{}}}\n{{},{{}},{{},{{}}}}\n{{}}","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dean'sCode\\C++PROPTIT\\SPOJ\\BCBASEAD_PhepCongCoSo.cpp","group":"local","local":true}
